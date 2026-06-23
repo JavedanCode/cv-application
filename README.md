@@ -1,18 +1,90 @@
-# React + Vite
+# CV Application Creator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern React-based CV/Resume builder that allows users to create and preview their resume in real time.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🔗 https://javedancode.github.io/cv-application/
 
-## React Compiler
+---
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+## Features
 
-Note: This will impact Vite dev & build performances.
+- Real-time resume preview
+- Personal information section
+- Education section
+- Experience section
+- Responsive layout
+- Modern dark theme UI
+- Built with reusable React components
+- State management using React Hooks
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Built With
+
+- React
+- Vite
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
+---
+
+## Getting Started
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/JavedanCode/cv-application.git
+```
+
+### Navigate to the Project
+
+```bash
+cd cv-application
+```
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Start Development Server
+
+```bash
+npm run dev
+```
+
+The application will be available at:
+
+```text
+http://localhost:5173
+```
+
+---
+
+## Build for Production
+
+```bash
+npm run build
+```
+
+Preview the production build locally:
+
+```bash
+npm run preview
+```
+
+---
+
+## Screenshot
+
+![CV Application Screenshot](./screenshot.png)
+
+---
+
+## License
+
+This project is open source and available under the MIT License.
