@@ -5,7 +5,7 @@ export default function ExperienceForm({ onChange, value }) {
       <textarea
         name="experience"
         id="experience"
-        placeholder="Write you're experiences"
+        placeholder="Write your experiences"
         value={value.experience}
         onChange={(e) => onChange("experience", e.target.value)}
       ></textarea>
