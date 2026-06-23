@@ -81,7 +81,8 @@ npm run preview
 
 ## Screenshot
 
-![CV Application Screenshot](./screenshot.png)
+<img width="1881" height="864" alt="image" src="https://github.com/user-attachments/assets/91937734-e9d0-4870-ae4d-1c3a387ceab0" />
+
 
 ---
 
